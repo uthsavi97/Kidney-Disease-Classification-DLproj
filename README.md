@@ -1,5 +1,8 @@
 
 # Kidney-Disease-Classification-DLproj
+## Introduction:
+Kidney tumors are abnormal growths in the kidneys, which can be either benign or cancerous. Often, these tumors do not exhibit symptoms and are unexpectedly discovered during diagnostic procedures for other health conditions. This  project aims to develop a robust deep learning model for classifying kidney tumors, providing valuable insights for early diagnosis and treatment.
+The end-to-end project encompasses various workflows, from configuration updates to the deployment of the classification model.
 
 ## Workflows
 
